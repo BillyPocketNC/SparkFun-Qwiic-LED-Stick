@@ -12,8 +12,6 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (1 In1.Cu signal)
-    (2 In2.Cu signal)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -36,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.3048)
+    (last_trace_width 0.1524)
     (user_trace_width 0.1524)
     (user_trace_width 0.254)
     (user_trace_width 0.3048)
@@ -7514,7 +7512,7 @@
     (effects (font (size 0.9652 0.9652) (thickness 0.08128)))
   )
   (dimension 53.34 (width 0.1) (layer Dwgs.User) (tstamp 5DE96266)
-    (gr_text "2.1000 in" (at 129.4511 86.7356) (layer Dwgs.User) (tstamp 5DE96267)
+    (gr_text "2.1000 in" (at 129.4511 86.7356) (layer Dwgs.User) (tstamp 5DE96266)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (feature1 (pts (xy 156.1211 92.3036) (xy 156.1211 87.399179)))
@@ -7526,7 +7524,7 @@
     (arrow2b (pts (xy 102.7811 87.9856) (xy 103.907604 87.399179)))
   )
   (dimension 48.26 (width 0.1) (layer Dwgs.User) (tstamp 5DE99031)
-    (gr_text "1.9000 in" (at 129.4511 89.7836) (layer Dwgs.User) (tstamp 5DE99032)
+    (gr_text "1.9000 in" (at 129.4511 89.7836) (layer Dwgs.User) (tstamp 5DE99031)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (feature1 (pts (xy 153.5811 94.8436) (xy 153.5811 90.447179)))
