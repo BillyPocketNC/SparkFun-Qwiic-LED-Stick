@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\billy\Documents\KICAD\gearhobbingmachine\qwiic_led_stick\Hardware\KiCad\Qwiic LED Stick.sch</source>
+    <date>12/5/2019 10:31:57 AM</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Qwiic LED Stick.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="JP3">
+      <value>STAND-OFF</value>
+      <footprint>Qwiic LED Stick:STAND-OFF</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="STAND-OFF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8182258E</tstamp>
+    </comp>
+    <comp ref="JP4">
+      <value>STAND-OFF</value>
+      <footprint>Qwiic LED Stick:STAND-OFF</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="STAND-OFF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>193933AB</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>FIDUCIALUFIDUCIAL</value>
+      <footprint>Qwiic LED Stick:MICRO-FIDUCIAL</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="FIDUCIALUFIDUCIAL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>BAFA783C</tstamp>
+    </comp>
+    <comp ref="JP6">
+      <value>FIDUCIALUFIDUCIAL</value>
+      <footprint>Qwiic LED Stick:MICRO-FIDUCIAL</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="FIDUCIALUFIDUCIAL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A21E5090</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>2.2k</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="2.2KOHM-0603-1_10W-1%" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B11A270E</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>2.2k</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="2.2KOHM-0603-1_10W-1%" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C161F5C3</tstamp>
+    </comp>
+    <comp ref="I2C1">
+      <value>JUMPER-SMT_3_2-NC_TRACE_SILK</value>
+      <footprint>Qwiic LED Stick:SMT-JUMPER_3_2-NC_TRACE_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_3_2-NC_TRACE_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>72792358</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SMD</value>
+      <footprint>Qwiic LED Stick:1X04_1MM_RA</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="I2C_STANDARDJS-1MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F32DEE68</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>PTH</value>
+      <footprint>Qwiic LED Stick:1X04_NO_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="I2C_STANDARD_NO_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>DF82C06F</tstamp>
+    </comp>
+    <comp ref="FRAME1">
+      <value>FRAME-LETTER</value>
+      <footprint>Qwiic LED Stick:CREATIVE_COMMONS</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="FRAME-LETTER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CC96BE83</tstamp>
+    </comp>
+    <comp ref="U$2">
+      <value>SPARKX-LOGO4</value>
+      <footprint>Qwiic LED Stick:SPARKX-MEDIUM</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="SPARKX-LOGO4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>87B7DF34</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="0.1UF-0603-25V-(+80_-20%)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>03F6E73E</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>SMD</value>
+      <footprint>Qwiic LED Stick:1X04_1MM_RA</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="I2C_STANDARDJS-1MM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CAB62C05</tstamp>
+    </comp>
+    <comp ref="LOGO1">
+      <value>OSHW-LOGOMINI</value>
+      <footprint>Qwiic LED Stick:OSHW-LOGO-MINI</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="OSHW-LOGOMINI" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>994F8438</tstamp>
+    </comp>
+    <comp ref="U$1">
+      <value>SPARKX-LOGO4</value>
+      <footprint>Qwiic LED Stick:SPARKX-MEDIUM</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="SPARKX-LOGO4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>89E33A62</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>FIDUCIALUFIDUCIAL</value>
+      <footprint>Qwiic LED Stick:MICRO-FIDUCIAL</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="FIDUCIALUFIDUCIAL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0B60073D</tstamp>
+    </comp>
+    <comp ref="JP5">
+      <value>FIDUCIALUFIDUCIAL</value>
+      <footprint>Qwiic LED Stick:MICRO-FIDUCIAL</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="FIDUCIALUFIDUCIAL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>056852D9</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="1KOHM-0603-1_10W-1%" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>299CF91A</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>RED</value>
+      <footprint>Qwiic LED Stick:LED-0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="LED-RED0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7F6C2D</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>Tiny85-20-SMT</value>
+      <footprint>Qwiic LED Stick:SO08-EIAJ_MCU</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="ATTINY85-ARDUINOTINY85-20-SMT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>286826BC</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>93886C31</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>04403A79</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A8F36FED</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8D7F21E8</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>11F28FEE</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54B076E9</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C1877C4D</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8B1AF466</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>AB7A9E27</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>APA1025050</value>
+      <footprint>Qwiic LED Stick:APA102-5050</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="APA1025050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B603868B</tstamp>
+    </comp>
+    <comp ref="JP7">
+      <value>STAND-OFF</value>
+      <footprint>Qwiic LED Stick:STAND-OFF</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="STAND-OFF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>ADC4B3B7</tstamp>
+    </comp>
+    <comp ref="JP8">
+      <value>STAND-OFF</value>
+      <footprint>Qwiic LED Stick:STAND-OFF</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="STAND-OFF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>357D3C8D</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>AVR_SPI_PROG_3X2TESTPOINTS</value>
+      <footprint>Qwiic LED Stick:2X3_TEST_POINTS</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="AVR_SPI_PROG_3X2TESTPOINTS" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C649B669</tstamp>
+    </comp>
+    <comp ref="JP9">
+      <value>JUMPER-SMT_2_NO_SILK</value>
+      <footprint>Qwiic LED Stick:SMT-JUMPER_2_NO_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_2_NO_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C8B46213</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="4.7KOHM-0603-1_10W-1%" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3AB2A26B</tstamp>
+    </comp>
+    <comp ref="JP10">
+      <value>JUMPER-SMT_3_1-NC_TRACE_SILK</value>
+      <footprint>Qwiic LED Stick:SMT-JUMPER_3_1-NC_TRACE_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_3_1-NC_TRACE_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A1D90C10</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>CONN_021X02_NO_SILK</value>
+      <footprint>Qwiic LED Stick:1X02_NO_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="CONN_021X02_NO_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>449C7C68</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>CONN_041X04_NO_SILK</value>
+      <footprint>Qwiic LED Stick:1X04_NO_SILK</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="CONN_041X04_NO_SILK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7C49DE93</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <footprint>Qwiic LED Stick:0603</footprint>
+      <libsource lib="Qwiic_LED_Stick-eagle-import" part="4.7UF-0603-6.3V-(10%)" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5D4D2F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="0.1UF-0603-25V-(+80_-20%)">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1UF-0603-25V-(+80_-20%)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="1KOHM-0603-1_10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1KOHM-0603-1_10W-1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="2.2KOHM-0603-1_10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">2.2KOHM-0603-1_10W-1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="4.7KOHM-0603-1_10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">4.7KOHM-0603-1_10W-1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="4.7UF-0603-6.3V-(10%)">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">4.7UF-0603-6.3V-(10%)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="APA1025050">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">APA1025050</field>
+      </fields>
+      <pins>
+        <pin num="P1" name="DI" type="BiDi"/>
+        <pin num="P2" name="CI" type="BiDi"/>
+        <pin num="P3" name="GND" type="BiDi"/>
+        <pin num="P4" name="VCC" type="BiDi"/>
+        <pin num="P5" name="CO" type="BiDi"/>
+        <pin num="P6" name="DO" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="ATTINY85-ARDUINOTINY85-20-SMT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATTINY85-ARDUINOTINY85-20-SMT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(~RESET~/A0)5" type="BiDi"/>
+        <pin num="2" name="(A3)3" type="BiDi"/>
+        <pin num="3" name="~~(A2)4" type="BiDi"/>
+        <pin num="4" name="GND" type="BiDi"/>
+        <pin num="5" name="~~(SDA/MOSI)0" type="BiDi"/>
+        <pin num="6" name="~~(MISO)1" type="BiDi"/>
+        <pin num="7" name="(SCL/SCK/A1)2" type="BiDi"/>
+        <pin num="8" name="VCC" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="AVR_SPI_PROG_3X2TESTPOINTS">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR_SPI_PROG_3X2TESTPOINTS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="CONN_021X02_NO_SILK">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_021X02_NO_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="CONN_041X04_NO_SILK">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_041X04_NO_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="FIDUCIALUFIDUCIAL">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">FIDUCIALUFIDUCIAL</field>
+      </fields>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="FRAME-LETTER">
+      <fields>
+        <field name="Reference">FRAME</field>
+        <field name="Value">FRAME-LETTER</field>
+      </fields>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="I2C_STANDARDJS-1MM">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">I2C_STANDARDJS-1MM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="SCL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="I2C_STANDARD_NO_SILK">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">I2C_STANDARD_NO_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SDA" type="passive"/>
+        <pin num="4" name="SCL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_2_NO_SILK">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER-SMT_2_NO_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_3_1-NC_TRACE_SILK">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER-SMT_3_1-NC_TRACE_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="JUMPER-SMT_3_2-NC_TRACE_SILK">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER-SMT_3_2-NC_TRACE_SILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="LED-RED0603">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-RED0603</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="OSHW-LOGOMINI">
+      <fields>
+        <field name="Reference">LOGO</field>
+        <field name="Value">OSHW-LOGOMINI</field>
+      </fields>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="SPARKX-LOGO4">
+      <fields>
+        <field name="Value">SPARKX-LOGO4</field>
+      </fields>
+    </libpart>
+    <libpart lib="Qwiic_LED_Stick-eagle-import" part="STAND-OFF">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">STAND-OFF</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Qwiic_LED_Stick-eagle-import">
+      <uri>C:\Users\billy\Documents\KICAD\gearhobbingmachine\qwiic_led_stick\Hardware\KiCad/Qwiic_LED_Stick-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J2" pin="1"/>
+      <node ref="D10" pin="P3"/>
+      <node ref="J3" pin="1"/>
+      <node ref="D7" pin="P3"/>
+      <node ref="J5" pin="4"/>
+      <node ref="D9" pin="P3"/>
+      <node ref="D12" pin="P3"/>
+      <node ref="D6" pin="P3"/>
+      <node ref="J6" pin="6"/>
+      <node ref="JP9" pin="1"/>
+      <node ref="D11" pin="P3"/>
+      <node ref="D5" pin="P3"/>
+      <node ref="J4" pin="1"/>
+      <node ref="D1" pin="C"/>
+      <node ref="D8" pin="P3"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="4"/>
+      <node ref="D3" pin="P3"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="D4" pin="P3"/>
+    </net>
+    <net code="2" name="3.3V">
+      <node ref="R2" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="JP10" pin="3"/>
+      <node ref="J3" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J4" pin="2"/>
+      <node ref="I2C1" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D1-PadA)">
+      <node ref="D1" pin="A"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="4" name="Net-(D4-PadP6)">
+      <node ref="D4" pin="P6"/>
+      <node ref="D5" pin="P1"/>
+    </net>
+    <net code="5" name="Net-(D4-PadP5)">
+      <node ref="D4" pin="P5"/>
+      <node ref="D5" pin="P2"/>
+    </net>
+    <net code="6" name="Net-(D3-PadP6)">
+      <node ref="D3" pin="P6"/>
+      <node ref="D4" pin="P1"/>
+    </net>
+    <net code="7" name="Net-(D3-PadP5)">
+      <node ref="D3" pin="P5"/>
+      <node ref="D4" pin="P2"/>
+    </net>
+    <net code="8" name="Net-(I2C1-Pad1)">
+      <node ref="I2C1" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="9" name="Net-(I2C1-Pad3)">
+      <node ref="R4" pin="2"/>
+      <node ref="I2C1" pin="3"/>
+    </net>
+    <net code="10" name="/CO(10)">
+      <node ref="D12" pin="P5"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="11" name="/DO(10)">
+      <node ref="D12" pin="P6"/>
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="12" name="VCC">
+      <node ref="JP10" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="13" name="/VLED">
+      <node ref="D8" pin="P4"/>
+      <node ref="D7" pin="P4"/>
+      <node ref="JP10" pin="2"/>
+      <node ref="D6" pin="P4"/>
+      <node ref="J5" pin="1"/>
+      <node ref="D12" pin="P4"/>
+      <node ref="D11" pin="P4"/>
+      <node ref="D10" pin="P4"/>
+      <node ref="D3" pin="P4"/>
+      <node ref="D4" pin="P4"/>
+      <node ref="D5" pin="P4"/>
+      <node ref="D9" pin="P4"/>
+    </net>
+    <net code="14" name="Net-(D7-PadP5)">
+      <node ref="D8" pin="P2"/>
+      <node ref="D7" pin="P5"/>
+    </net>
+    <net code="15" name="Net-(D7-PadP6)">
+      <node ref="D7" pin="P6"/>
+      <node ref="D8" pin="P1"/>
+    </net>
+    <net code="16" name="Net-(D6-PadP6)">
+      <node ref="D6" pin="P6"/>
+      <node ref="D7" pin="P1"/>
+    </net>
+    <net code="17" name="Net-(D6-PadP5)">
+      <node ref="D7" pin="P2"/>
+      <node ref="D6" pin="P5"/>
+    </net>
+    <net code="18" name="Net-(D5-PadP5)">
+      <node ref="D6" pin="P2"/>
+      <node ref="D5" pin="P5"/>
+    </net>
+    <net code="19" name="Net-(D5-PadP6)">
+      <node ref="D6" pin="P1"/>
+      <node ref="D5" pin="P6"/>
+    </net>
+    <net code="20" name="Net-(D11-PadP6)">
+      <node ref="D12" pin="P1"/>
+      <node ref="D11" pin="P6"/>
+    </net>
+    <net code="21" name="Net-(D11-PadP5)">
+      <node ref="D12" pin="P2"/>
+      <node ref="D11" pin="P5"/>
+    </net>
+    <net code="22" name="Net-(D10-PadP6)">
+      <node ref="D10" pin="P6"/>
+      <node ref="D11" pin="P1"/>
+    </net>
+    <net code="23" name="Net-(D10-PadP5)">
+      <node ref="D11" pin="P2"/>
+      <node ref="D10" pin="P5"/>
+    </net>
+    <net code="24" name="Net-(D10-PadP1)">
+      <node ref="D10" pin="P1"/>
+      <node ref="D9" pin="P6"/>
+    </net>
+    <net code="25" name="Net-(D10-PadP2)">
+      <node ref="D9" pin="P5"/>
+      <node ref="D10" pin="P2"/>
+    </net>
+    <net code="26" name="Net-(D8-PadP5)">
+      <node ref="D9" pin="P2"/>
+      <node ref="D8" pin="P5"/>
+    </net>
+    <net code="27" name="Net-(D8-PadP6)">
+      <node ref="D9" pin="P1"/>
+      <node ref="D8" pin="P6"/>
+    </net>
+    <net code="28" name="/SCL">
+      <node ref="J2" pin="4"/>
+      <node ref="J3" pin="4"/>
+      <node ref="J6" pin="3"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="29" name="/SDA">
+      <node ref="J6" pin="4"/>
+      <node ref="J3" pin="3"/>
+      <node ref="J2" pin="3"/>
+      <node ref="R4" pin="1"/>
+      <node ref="J4" pin="3"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="30" name="/ADDR(MISO)">
+      <node ref="JP9" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="31" name="/~RST">
+      <node ref="U1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="J6" pin="5"/>
+    </net>
+    <net code="32" name="/DO">
+      <node ref="D3" pin="P1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="33" name="/CLK">
+      <node ref="D3" pin="P2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+  </nets>
+</export>
