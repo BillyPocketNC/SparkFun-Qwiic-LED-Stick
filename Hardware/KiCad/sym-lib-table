@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Qwiic_LED_Stick-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Qwiic_LED_Stick-eagle-import.lib)(options "")(descr ""))
+)

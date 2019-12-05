@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Qwiic LED Stick")(type KiCad)(uri "$(KIPRJMOD)/Qwiic LED Stick.pretty")(options "")(descr ""))
+)
