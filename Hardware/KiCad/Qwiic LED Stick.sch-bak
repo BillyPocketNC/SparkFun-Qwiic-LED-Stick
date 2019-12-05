@@ -1266,7 +1266,7 @@ Clear Jumper to remove \nI2C Pull-ups from bus
 Text Notes 3920 6710 0    59   ~ 0
 Power
 Text Notes 8110 9150 0    85   ~ 0
-Ciara Jekel\nModified By Billy Bogardus\n
+Ciara Jekel
 Text Notes 4800 5200 0    59   ~ 0
 7-bit unshifted I2C address: 0x23
 Text Notes 1670 5900 0    59   ~ 0
