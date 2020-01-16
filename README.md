@@ -1,4 +1,8 @@
 ﻿SparkFun Qwiic LED Stick
+
+This Design has been modified to make a 3x3 LED Matrix.
+Sparkfun is the original source of the unmodified design.
+
 ========================================
 
 ![Qwiic LED Stick](https://cdn.sparkfun.com/assets/parts/1/3/0/3/7/Qwiic_LED_Stick_Rainbow.gif)
